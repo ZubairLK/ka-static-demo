@@ -1,0 +1,1 @@
+Significance tests give us a formal process for using sample data to evaluate the likelihood of some claim about a population value. We calculate p-values to see how likely a sample result is to occur by random chance, and we use p-values to make conclusions about hypotheses.

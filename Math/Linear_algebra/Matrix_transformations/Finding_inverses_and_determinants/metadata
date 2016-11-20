@@ -1,0 +1,1 @@
+We've talked a lot about inverse transformations abstractly in the last tutorial.  Now, we're ready to actually compute inverses.  We start from "documenting" the row operations to get a matrix into reduced row echelon form and use this to come up with the formula for the inverse of a 2x2 matrix.  After this we define a determinant for 2x2, 3x3 and nxn matrices.

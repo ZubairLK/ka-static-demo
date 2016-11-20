@@ -1,0 +1,1 @@
+Mean absolute deviation (MAD) is a tool for reasoning about the spread of data, just like interquartile range (IQR). Higher values of MAD tell you the data is more spread out. Lower values of MAD tell you the data is closer together.

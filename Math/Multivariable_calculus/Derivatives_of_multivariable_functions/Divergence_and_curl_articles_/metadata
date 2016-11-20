@@ -1,0 +1,3 @@
+Divergence and curl are two ways of extending the idea of a derivative to vector fields.
+
+If you interpret a vector field as representing a fluid flow, the divergence tells you if the fluid tends to converge near a given point, or if it diverges away from it.  The curl, on the other hand, measures rotation in the fluid.

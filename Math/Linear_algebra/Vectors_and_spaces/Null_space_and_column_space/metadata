@@ -1,0 +1,1 @@
+We will define matrix-vector multiplication and think about the set of vectors that satisfy Ax=0 for a given matrix A (this is the null space of A).  We then proceed to think about the linear combinations of the columns of a matrix (column space).  Both of these ideas help us think the possible solutions to the Matrix-vector equation Ax=b.

@@ -1,0 +1,1 @@
+The meaning of the derivative is not so straightforward when the input space has multiple dimensions.  Partial derivatives allow us to handle this by restricting movement in the input space.

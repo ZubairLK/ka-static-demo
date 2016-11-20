@@ -1,0 +1,1 @@
+Given a set of vectors, what other vectors can you create by adding and/or subtracting scalar multiples of those vectors.  The set of vectors that you can create through these linear combinations of the original set is called the "span" of the set.

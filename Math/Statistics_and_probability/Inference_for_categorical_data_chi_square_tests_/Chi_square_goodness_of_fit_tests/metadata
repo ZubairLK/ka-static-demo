@@ -1,0 +1,1 @@
+A chi-square goodness-of-fit test examines how well a sample of categorical data fits a hypothesized distribution. For example, take a sample of people and ask them what day of the week they were born. You probably won't get the same number of people born on each day, but does that offer strong evidence that the distribution isn't even for everyone?

@@ -1,0 +1,1 @@
+Euler's method is a relatively simple numerical tool for approximating values for solutions of differential equations. It is based on the understanding that a function behaves similar to its tangent around the point where the tangent touches the function.

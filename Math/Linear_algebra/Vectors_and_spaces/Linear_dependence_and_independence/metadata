@@ -1,0 +1,1 @@
+If no vector in a set can be created from a linear combination of the other vectors in the set, then we say that the set is linearly independent.  Linearly independent sets are great because there aren't any extra, unnecessary vectors lying around in the set. :)

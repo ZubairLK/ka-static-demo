@@ -1,0 +1,1 @@
+There are two ways to define the derivative of function f at point x=a. The formal definition is the limit of [f(a+h)-f(x)]/h as h approaches 0, and the alternative definition is the limit of [f(x)-f(a)]/(x-a) as x approaches a. Make introduction with these two definitions.

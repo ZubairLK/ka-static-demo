@@ -1,0 +1,3 @@
+If you haven't watched the movie "A Beautiful Mind", you should.  It is about John Nash (played by Russell Crowe) who won the Nobel Prize in economics for his foundational contributions to game theory.  This is what this tutorial is about.
+
+Nash put some structure around how players in a "game" can optimize their outcomes (if the movie is to be fully believed, this insight struck him when he realized that if all his friends hit on the most pretty girl, he should hit on the second-most pretty one).  In this tutorial, we use the classic "prisoner's dilemma" to highlight this concept.

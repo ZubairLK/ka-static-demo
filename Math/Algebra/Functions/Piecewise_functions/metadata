@@ -1,0 +1,1 @@
+Piecewise functions are functions that have different assignment rules for different numbers. For example, a function can return x² for any negative x-value and return x³ for any non-negative x-value.

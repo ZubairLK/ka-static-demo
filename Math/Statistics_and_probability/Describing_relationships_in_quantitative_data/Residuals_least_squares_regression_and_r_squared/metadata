@@ -1,0 +1,1 @@
+Residuals measure how far away each data point is from a line that has been fit to the data in a scatterplot. A least-squares regression line tries to fit the data the best it can by making these residuals as small as possible, and we can measure how well a line fits using r-squared. This tutorial explores a few of the more advanced topics in linear regression.

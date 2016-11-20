@@ -1,0 +1,1 @@
+The intermediate value theorem states that if a continuous function, f, with an interval, [a, b], as its domain, takes values f(a) and f(b) at each end of the interval, then it also takes any value between f(a) and f(b) at some point within the interval. This is a basic but important property of all continuous functions.

@@ -1,0 +1,1 @@
+What’s the probability of drawing two aces in a row from a deck of cards? Getting an ace on the first card changes the probability for the second card. This tutorial covers how we can deal with that when multiplying probabilities.

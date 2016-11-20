@@ -1,0 +1,1 @@
+If we limit ourselves to input signals shaped like sines or cosines, we can develop a whole AC analysis method to figure out what happens in circuits with changing signals. The methods are far simpler than solving a differential equation.

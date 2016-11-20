@@ -1,0 +1,1 @@
+What's the probability of picking two "e" from the bag in scrabble (assuming that I don't replace the tiles).  Well, the probability of picking an 'e' on your second try depends on what happened in the first (if you picked an 'e' the first time around, then there is one less 'e' in the bag).  This is just one of many, many type of scenarios involving dependent probability.

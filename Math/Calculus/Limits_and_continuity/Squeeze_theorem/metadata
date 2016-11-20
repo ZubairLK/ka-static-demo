@@ -1,0 +1,1 @@
+The Squeeze theorem (or Sandwich theorem) states that for any three functions f, g, and h, if f(x)≤g(x)≤h(x) for all x-values on an interval except for a single value x=a, and the limits of f and h at x=a are equal to L, then the limit of g at x=a must be equal to L as well. This may seem simple but it's pure genius. Learn how it helps us find tricky limits like sin(x)/x at x=0.

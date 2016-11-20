@@ -1,0 +1,1 @@
+Implicit differentiation provides us with the relationship between the derivatives of inverse functions: if f and g are inverse functions, then f’(x)=1/(g’(f(x)). Get comfortable working with this relationship.

@@ -1,0 +1,1 @@
+u-substitution is an extremely useful technique. Harnessing the power of the chain rule, it allows us to define a new variable (common denoted by the letter u) as a function of x, and obtain a new expression which is (hopefully) easier to integrate.

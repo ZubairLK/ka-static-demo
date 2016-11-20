@@ -1,0 +1,1 @@
+What does it mean to take the derivative of a function whose input lives in multiple dimensions?  What about when its output is a vector?  Here we go over many different ways to  extend the idea of a derivative to higher dimensions, including partial derivatives​, directional derivatives, the gradient, vector derivatives, divergence, curl, etc.

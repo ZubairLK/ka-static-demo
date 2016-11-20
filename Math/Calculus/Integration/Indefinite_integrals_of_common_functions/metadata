@@ -1,0 +1,1 @@
+Indefinite integrals (or antiderivatives) are really just backward differentiation. Therefore, the indefinite integral of eˣ is eˣ+c, the indefinite integral of 1/x is ln(x)+c, the indefinite integral of sin(x) is -cos(x)+c, and the indefinite integral of cos(x) is sin(x)+c.

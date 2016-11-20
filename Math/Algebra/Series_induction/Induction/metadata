@@ -1,0 +1,1 @@
+Proof by induction is a core tool.  This tutorial walks you through the general idea that if 1) something is true for a base case (say when n=1) and 2) if it is true for n, then it is also true for n+1, then it must be true for all n!  Amazing!

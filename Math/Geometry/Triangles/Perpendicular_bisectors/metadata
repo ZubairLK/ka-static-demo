@@ -1,0 +1,3 @@
+In this tutorial, we study lines that are perpendicular to the sides of a triangle and divide them in two (perpendicular bisectors).  As we'll prove, they intersect at a unique point called the cicumcenter (which, quite amazingly, is equidistant to the vertices).  We can then create a circle (circumcircle) centered at this point that goes through all the vertices. 
+
+This tutorial is the extension of the core narrative of the Geometry "course".  After this, you might want to look at the tutorial on angle bisectors.

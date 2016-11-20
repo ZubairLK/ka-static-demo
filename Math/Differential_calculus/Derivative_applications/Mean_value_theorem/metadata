@@ -1,0 +1,1 @@
+The mean value theorem states that if a function f is continuous on the closed interval [a,b] and differentiable on the open interval (a,b), then there exists a point c in (a,b) such that f'(c) is equal to the function's average rate of change over [a,b].
